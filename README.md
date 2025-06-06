@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
+# Seri belajar bersama mahasiswa di waktu senggang
+## Requirements
+- flask: `pip install flask` atau `python -m pip install flask`
+* silahkan ganti setiap kata `python` dengan `py` apabila menggunakan python versi >= 3.9
+- flask-mysql: 
+    - `pip install flask-mysql` atau jika tidak bisa
+    - `python -m pip install flask-mysql` 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Persiapan Database
+- buat database baru dengan nama `dbtokoa` atau bisa disesuikan di MySql
+- import database yang ada pada repository ini kedalam database yang sebelumnya telah dibuat 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Run
+- `python main.py`
